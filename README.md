@@ -1,3 +1,1 @@
-#!/bin/bash
-echo 
-My first readme
+My work is excellent!
