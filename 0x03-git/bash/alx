@@ -1,2 +1,3 @@
-#!/bin/bash
-echo "Als School is so cool!"
+#!/bin/bash HEAD
+echo "Alx School is so cool!"
+echo "ALX School"
